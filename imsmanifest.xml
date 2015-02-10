@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<manifest identifier="fsSCORM.html.200304151009-W349434F-3E9B-E320-F0AB-714E7C3DBF69" version="20030415104655"
+	xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+	xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+		http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+	<!--Generated on 4/15/2003 10:46:56 AM
+		 by Click2learn, Inc. FlashManifester v0.5b.tbk (version 20030413002240)
+		 using Msxml2.DOMDocument.3.0-->
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>1.2</schemaversion>
+		<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemalocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+			<general>
+				<title>
+					<langstring xml:lang="x-none">fsSCORM Demo SCO</langstring>
+				</title>
+				<catalogentry>
+					<catalog>TLC Standardswork</catalog>
+					<entry>
+						<langstring xml:lang="x-none">Demos - SCORM 1.2 - Packages - fsSCORM - 20030415</langstring>
+					</entry>
+				</catalogentry>
+				<description>
+					<langstring xml:lang="x-none">This is a very brief demo of a SCO that was built with Macromedia Flash MX and the fsSCORM publishing template for Flash. The Flash movie exercises several of the API functions through the scripts in the HTML template.</langstring>
+				</description>
+				<language>en</language>
+				<keyword>
+					<langstring xml:lang="x-none">SCO</langstring>
+				</keyword>
+				<keyword>
+					<langstring xml:lang="x-none">Flash</langstring>
+				</keyword>
+				<keyword>
+					<langstring xml:lang="x-none">fsSCORM</langstring>
+				</keyword>
+				<keyword>
+					<langstring xml:lang="x-none">publishing template</langstring>
+				</keyword>
+			</general>
+			<lifecycle>
+				<version>
+					<langstring xml:lang="x-none">1 (build 20030415)</langstring>
+				</version>
+				<status>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Final</langstring>
+					</value>
+				</status>
+				<contribute>
+					<role>
+						<source>
+							<langstring xml:lang="x-none">LOMv1.0</langstring>
+						</source>
+						<value>
+							<langstring xml:lang="x-none">Author</langstring>
+						</value>
+					</role>
+					<centity>
+						<vcard>BEGIN:vCard
+VERSION:3.0
+FN:Lenny Greenberg
+ORG:Pathlore, Inc.
+END:vCard
+</vcard>
+					</centity>
+					<date>
+						<datetime>2003-04-15</datetime>
+					</date>
+				</contribute>
+				<contribute>
+					<role>
+						<source>
+							<langstring xml:lang="x-none">LOMv1.0</langstring>
+						</source>
+						<value>
+							<langstring xml:lang="x-none">Author</langstring>
+						</value>
+					</role>
+					<centity>
+						<vcard>BEGIN:vCard
+VERSION:3.0
+FN:Tom King
+ORG:Macromedia, Inc.
+END:vCard
+</vcard>
+					</centity>
+					<date>
+						<datetime>2003-04-15</datetime>
+					</date>
+				</contribute>
+				<contribute>
+					<role>
+						<source>
+							<langstring xml:lang="x-none">LOMv1.0</langstring>
+						</source>
+						<value>
+							<langstring xml:lang="x-none">Author</langstring>
+						</value>
+					</role>
+					<centity>
+						<vcard>BEGIN:vCard
+VERSION:3.0
+FN:Claude Ostyn
+ORG:Click2learn, Inc.
+END:vCard
+</vcard>
+					</centity>
+					<date>
+						<datetime>2003-04-15</datetime>
+					</date>
+				</contribute>
+			</lifecycle>
+			<metametadata>
+				<metadatascheme>ADL SCORM 1.2</metadatascheme>
+			</metametadata>
+			<technical>
+				<format>application/x-shockwave-flash</format>
+				<format>text/html</format>
+				<size>103236</size>
+			</technical>
+			<educational/>
+			<rights>
+				<cost>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">no</langstring>
+					</value>
+				</cost>
+				<copyrightandotherrestrictions>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">yes</langstring>
+					</value>
+				</copyrightandotherrestrictions>
+				<description>
+					<langstring xml:lang="x-none">Copyright 2003 -- All rights reserved. Trademarks used are the property of their respective owners.</langstring>
+				</description>
+			</rights>
+			<classification>
+				<purpose>
+					<source>
+						<langstring xml:lang="x-none">LOMv1.0</langstring>
+					</source>
+					<value>
+						<langstring xml:lang="x-none">Idea</langstring>
+					</value>
+				</purpose>
+				<description>
+					<langstring xml:lang="x-none">This is a very brief demo of a SCO that was built with Macromedia Flash MX and the fsSCORM publishing template for Flash. The Flash movie exercises several of the API functions through the scripts in the HTML template.</langstring>
+				</description>
+				<keyword>
+					<langstring xml:lang="x-none">SCO</langstring>
+				</keyword>
+				<keyword>
+					<langstring xml:lang="x-none">Flash</langstring>
+				</keyword>
+				<keyword>
+					<langstring xml:lang="x-none">fsSCORM</langstring>
+				</keyword>
+				<keyword>
+					<langstring xml:lang="x-none">publishing template</langstring>
+				</keyword>
+			</classification>
+		</lom>
+	</metadata>
+	<organizations default="ORG_1">
+		<organization identifier="ORG_1" structure="hierarchical">
+			<title>Content</title>
+			<item identifier="ITEM1" identifierref="RES1" isvisible="true">
+				<title>Content</title>
+			</item>
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="RES1" type="webcontent" adlcp:scormtype="sco" href="fsSCORM.html">
+			<file href="fsSCORM.html"/>
+			<file href="fsSCORM.swf"/>
+		</resource>
+	</resources>
+</manifest>
