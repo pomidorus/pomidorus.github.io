@@ -2,7 +2,7 @@
 <html>  
 <head>    
   <title>scorm</title>    
-  <script  src=http://mobiledev.fuseuniversal.com/assets/jquery.min.js></script>  
+  <script  src=https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js></script>  
 </head>  
 <body>    
   <iframe src=http://mobiledev.fuseuniversal.com//system/courses/62/fsSCORM.html width='600px' height='600px'></iframe>    
